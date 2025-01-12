@@ -1,0 +1,7 @@
+.user-avatar {
+  width: 45px;
+  height: 45px;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+}

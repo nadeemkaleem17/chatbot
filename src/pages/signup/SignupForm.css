@@ -1,0 +1,34 @@
+.sign-up-button-google {
+  background-color: #3385ff;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 112px;
+}
+.goole-image {
+  height: 28px;
+  width: 28px;
+}
+
+.asterisk-text {
+  font-size: 18px;
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+.submit-button {
+  background-color: #ff3300;
+  border-color: #ff3300;
+}
+.submit-button:hover {
+  background-color: #c52700;
+  border-color: #c52700;
+}
+.login-link {
+  text-decoration: underline;
+  color: #0066cc;
+}
+.form-text-style {
+  text-align: left;
+  display: block;
+}

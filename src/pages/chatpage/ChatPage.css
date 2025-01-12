@@ -1,0 +1,10 @@
+.chat-page-container {
+  padding: 3% 5% 10% 5%;
+  overflow-y: scroll;
+  overflow: hidden;
+}
+.chats-section {
+  flex: 1;
+  position: "relative";
+  padding-right: "35px";
+}

@@ -1,0 +1,448 @@
+{
+  "users": [
+    {
+      "email": "test_1@gmail.com",
+      "password": "$2a$10$Mptbc4BkRDQWBU/CG0flAuTUtztSkexHSL3ANKjyE2riLO6of585C",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 1
+    },
+    {
+      "email": "test_2@gmail.com",
+      "password": "$2a$10$FtDJyBONB3D8EB56IdNpWexfyXodl/b3sikDRpf2vvt38h0jwaGQi",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 2
+    },
+    {
+      "email": "test_3@gmail.com",
+      "password": "$2a$10$qC.HeSrncznazxLCTw8/Hun3QIuNJrpDN0cwyt9XwTsMfYskYOpPK",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 3
+    },
+    {
+      "email": "test_6@gmail.com",
+      "password": "$2a$10$Gwkr3Mh3q68XRGL5w8XYr.NcE.3HlKXd8/MF03kzyOskAWU6Ldr1O",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 4
+    },
+    {
+      "email": "test_7@gmail.com",
+      "password": "$2a$10$72y9ow7v53I9kxs.6NBcyO8OZ15uWI3v3taila06qZ5EshqpnkRgC",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 5
+    },
+    {
+      "email": "test_9@gmail.com",
+      "password": "$2a$10$KBb2J9kmKAnQmqFeSY/HoOOC4FS0zDl7.UDNB9FkoZVuTAHzyJf9a",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 6
+    },
+    {
+      "email": "test_10@gmail.com",
+      "password": "$2a$10$gSXunYzWNdKDfDFkxjGKs.L0yeXI4pSYed.boCPotfnL5EyqKKACS",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 7
+    },
+    {
+      "email": "test_11@gmail.com",
+      "password": "$2a$10$uUwU5e7kYftQJechOB8.jujRvC/YXR6K5MQ8hmzqYUP8VB6AbJPOi",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 8
+    },
+    {
+      "email": "test_12@gmail.com",
+      "password": "$2a$10$C0qSNZpbzzu02A8ooym/..gJ8YjQ1730e.IXCfDilp6WGSmhUPcWG",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 9
+    },
+    {
+      "email": "test_15@gmail.com",
+      "password": "$2a$10$4sH43uDJl9W2xRO7zi0JeOZGhUhqCbcOFuvCUrpyYbNJKhN/LtnAq",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 10
+    },
+    {
+      "email": "test_16@gmail.com",
+      "password": "$2a$10$PECjoT9KIqyRNHaD.3f4AuQCijfPigig2XHqeAHLXeuJbTrc/YFfq",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 11
+    },
+    {
+      "email": "test_17@gmail.com",
+      "password": "$2a$10$0lqfoobgMYC/50YggCCBQen2LT7XZzwUpF3GOE.diHluheWOZaHrW",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 12
+    },
+    {
+      "email": "test_18@gmail.com",
+      "password": "$2a$10$U.ymop/20IFlwJmKBujqEODnIMdMImBW5m03jtzPTtp1rBGi/77ua",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 13
+    },
+    {
+      "email": "test_19@gmail.com",
+      "password": "$2a$10$ngDVah/dmrFdzZ1CXDymieOMrvboAxDtQFPjbYUIDUcM.Oj6bttHu",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 14
+    },
+    {
+      "email": "test_20@gmail.com",
+      "password": "$2a$10$L.950twZCkNhnKC2PdFjFujhJyVIQciU8mUl//Rdwd7avraG3LplW",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 15
+    },
+    {
+      "email": "test_21@gmail.com",
+      "password": "$2a$10$N9WT6g2vJvpYepDcCgQlk..ThEm7aemifi.X/oNt/Xsclzd21CZ1O",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 16
+    },
+    {
+      "email": "test_22@gmail.com",
+      "password": "$2a$10$4/iBNJRY4XPHCF7HSQcHou4y0WpApF3IbTy.HxnUNlzCQrZz16Gdu",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 17
+    },
+    {
+      "email": "test_23@gmail.com",
+      "password": "$2a$10$XL8pL6xcO2yxARO5Xofox.Lz9HjtPxYWNPbU05Rnuj9VLPc26Icy6",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 18
+    },
+    {
+      "email": "test_24@gmail.com",
+      "password": "$2a$10$DtjRQLXBUY9LzuylemAuTutLCKLMfE82dJ3oIYRJvRtGkAC6zhR96",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 19
+    },
+    {
+      "email": "test_25@gmail.com",
+      "password": "$2a$10$8rtH5dtf7iOnFV8g7CmA4epT/SaTOpYZXk6hh6/iCVHGXC3tUnoYa",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 20
+    },
+    {
+      "email": "test_30@gmail.com",
+      "password": "$2a$10$HapNE5tDhEczwc4qJ4ZoF.M62K3s44eblz/HG8m7iYPf8mQaLbBFC",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 21
+    },
+    {
+      "email": "test_31@gmail.com",
+      "password": "$2a$10$Hb7H5b0KLSQr1y2fYuVdSeiCGKqZ/crDbrJrQbIC20m3WS6Gf6Nni",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 22
+    },
+    {
+      "email": "test_32@gmail.com",
+      "password": "$2a$10$iQoddz.Ww1iUXmylKlp.pOX7ZxiMNlCciEf.efjqF4Kk8HyAaAJb2",
+      "firstName": "Nadeem",
+      "lastName": "Nadeem",
+      "id": 23
+    }
+  ],
+  "chats": [
+    {
+      "chatList": [
+        {
+          "id": 1736448488254,
+          "messages": [
+            {
+              "text": "Hi, how can I help you today?",
+              "sender": "bot"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "chatList": [
+        {
+          "id": 1736447565541,
+          "messages": [
+            {
+              "text": "Hi, how can I help you today?",
+              "sender": "bot"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "chatList": [
+        {
+          "id": 1736447732360,
+          "messages": [
+            {
+              "text": "Hi, how can I help you today?",
+              "sender": "bot"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_6@gmail.com",
+        "id": 4
+      },
+      "id": 4
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_7@gmail.com",
+        "id": 5
+      },
+      "id": 5
+    },
+    {
+      "chatList": [
+        {
+          "id": 1736481262263,
+          "messages": [
+            {
+              "text": "Hi, how can I help you today?",
+              "sender": "bot"
+            }
+          ]
+        },
+        {
+          "id": 1736481313350,
+          "messages": [
+            {
+              "text": "Hi, how can I help you today?",
+              "sender": "bot"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "chatList": [
+        {
+          "id": 1736482757060,
+          "messages": [
+            {
+              "text": "Hi, how can I help you today?",
+              "sender": "bot"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    },
+    {
+      "chatList": [
+        {
+          "id": 1736486392949,
+          "messages": [
+            {
+              "text": "Hi, how can I help you today?",
+              "sender": "bot"
+            }
+          ]
+        },
+        {
+          "id": 1736488110210,
+          "messages": [
+            {
+              "text": "Hi, how can I help you today?",
+              "sender": "bot"
+            }
+          ]
+        },
+        {
+          "id": 1736488235830,
+          "messages": [
+            {
+              "text": "Hi, how can I help you today?",
+              "sender": "bot"
+            }
+          ]
+        }
+      ],
+      "id": 8
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_12@gmail.com",
+        "id": 9
+      },
+      "id": 9
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_15@gmail.com",
+        "id": 10
+      },
+      "id": 10
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_16@gmail.com",
+        "id": 11
+      },
+      "id": 11
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_17@gmail.com",
+        "id": 12
+      },
+      "id": 12
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_18@gmail.com",
+        "id": 13
+      },
+      "id": 13
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_19@gmail.com",
+        "id": 14
+      },
+      "id": 14
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_20@gmail.com",
+        "id": 15
+      },
+      "id": 15
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_21@gmail.com",
+        "id": 16
+      },
+      "id": 16
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_22@gmail.com",
+        "id": 17
+      },
+      "id": 17
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_23@gmail.com",
+        "id": 18
+      },
+      "id": 18
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_24@gmail.com",
+        "id": 19
+      },
+      "id": 19
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_25@gmail.com",
+        "id": 20
+      },
+      "id": 20
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_30@gmail.com",
+        "id": 21
+      },
+      "id": 21
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_31@gmail.com",
+        "id": 22
+      },
+      "id": 22
+    },
+    {
+      "chatList": [],
+      "user": {
+        "firstName": "Nadeem",
+        "lastName": "Nadeem",
+        "email": "test_32@gmail.com",
+        "id": 23
+      },
+      "id": 23
+    }
+  ]
+}

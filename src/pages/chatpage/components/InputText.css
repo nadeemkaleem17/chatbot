@@ -1,0 +1,41 @@
+.chat-input-container {
+  z-index: 10;
+  margin-bottom: 50px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.text-area-parent-div {
+  width: 90%;
+  max-width: 930px;
+}
+
+.text-area {
+  resize: none;
+  border-radius: 30px;
+  padding: 12px 20px;
+  flex-grow: 1;
+  width: 100%;
+  border: none;
+  outline: none;
+}
+
+.enabled-style {
+  cursor: pointer;
+  color: #0c0c0d;
+}
+.not-enabled-style {
+  cursor: not-allowed;
+  color: #ccc;
+}
+
+.send-button {
+  font-size: 35px;
+  right: 10px;
+  bottom: 10px;
+  background: none;
+  border: none;
+  outline: none;
+}

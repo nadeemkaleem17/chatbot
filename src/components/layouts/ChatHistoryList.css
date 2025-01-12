@@ -1,0 +1,20 @@
+.chat-list-item {
+  border-radius: 10px !important;
+  background-color: #cccccc;
+  margin-bottom: 3px;
+}
+
+.chat-item-menu-icon {
+  font-size: 1.2rem;
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.chat-item-menu-options {
+  position: absolute;
+  transform: translate(-100%, 10px);
+  left: auto;
+  right: auto;
+}

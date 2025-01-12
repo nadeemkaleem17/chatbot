@@ -1,0 +1,15 @@
+.message-bubble {
+  border-radius: 30px;
+}
+.user-message {
+  max-width: 55%;
+  background-color: #f2f2f2;
+}
+.bot-message {
+  max-width: 100%;
+  background-color: none;
+}
+
+.chat-history {
+  text-align: left;
+}
